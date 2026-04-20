@@ -1,0 +1,89 @@
+red -200 40
+red -200 -40
+stop
+red -200 0
+red -170 0
+stop
+red -170 40
+red -170 -40
+stop
+blue -150 -20
+blue -120 -20
+blue -120 0
+blue -150 0
+blue -150 -30
+blue -120 -40
+stop
+green -100 60
+green -100 -40
+stop
+green -80 60
+green -80 -40
+stop
+black -40 0
+black -30 -10
+black -30 -25
+black -40 -35
+black -55 -35
+black -65 -25
+black -65 -10
+black -55 0
+black -40 0
+stop
+red 0 60
+red 0 -40
+stop
+red 0 -40
+red 25 -40
+red 35 -30
+red 35 -10
+red 25 0
+red 0 0
+stop
+blue 55 0
+blue 55 -40
+stop
+blue 55 -10
+blue 65 0
+blue 80 0
+stop
+green 130 0
+green 140 -10
+green 140 -25
+green 130 -35
+green 115 -35
+green 105 -25
+green 105 -10
+green 115 0
+green 130 0
+stop
+black 200 20
+black 215 10
+black 220 -10
+black 215 -30
+black 200 -40
+black 180 -40
+black 165 -30
+black 160 -10
+black 165 10
+black 180 20
+black 200 20
+stop
+black 180 0
+black 182 2
+black 180 4
+black 178 2
+black 180 0
+stop
+black 200 0
+black 202 2
+black 200 4
+black 198 2
+black 200 0
+stop
+red 170 -15
+red 175 -22
+red 185 -25
+red 195 -25
+red 205 -22
+red 210 -15
